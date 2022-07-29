@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/WorkspaceJH/Webproject5/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkspaceJH/Webproject5/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/WorkspaceJH/Webproject5/ojdbc6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WebContent"/>
+</classpath>
